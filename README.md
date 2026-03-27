@@ -3,4 +3,4 @@ Visualizing LLM Architecture Details using Excalidraw
 
 
 
-<img src="./modelimg/clip5.jpg">
+<img src="modelimage/clip5.jpg">
