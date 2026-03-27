@@ -3,7 +3,8 @@
 </center>
 
 > Visualizing LLM Architecture Details using Excalidraw🎨🎨🎨
-> IF you like this repo, remember to follow. your stars are also the motivation behind my updates.🤗🤗🤗
+> 
+> IF you like this repo, remember to follow. Your stars are also the motivation behind my updates.🤗🤗🤗
 
 | Family | Model      | State  |
 | ------ | ---------- | ------ |
