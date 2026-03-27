@@ -18,7 +18,11 @@
 
 ## Qwen3.5
 
-Update......
+Update......Currently under revision and refinement.
+
+### Vision Encoder
+
+<img src="modelimage/qwen352.jpg">
 
 
 
