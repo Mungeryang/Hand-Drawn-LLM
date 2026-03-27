@@ -8,8 +8,10 @@
 | ------ | ---------- | ------ |
 | Qwen   | Qwen3.5    | update |
 |        | Qwen2.5_VL | ✅      |
-| Llama  | llama-2    | ✅      |
-| GPT    | GPT-2      | ✅      |
+| Meta   | llama-2    | ✅      |
+| OPENAI | GPT-2      | ✅      |
+|        | CLIP       | ✅      |
+| GOOGLE | ViT        | ✅      |
 | GLM    | -          | update |
 
 
