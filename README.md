@@ -20,12 +20,13 @@
 
 ## Qwen3.5
 
-Update......Currently under revision and refinement.
-
 ### Vision Encoder
 
 <img src="modelimage/qwen352.jpg">
 
+### Text Encoder
+
+<img src="modelimage/qwen353.jpg">
 
 
 ## Qwen-VL
