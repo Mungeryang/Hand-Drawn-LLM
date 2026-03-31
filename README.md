@@ -3,21 +3,30 @@
 </center>
 
 > Visualizing LLM Architecture Details using Excalidraw🎨🎨🎨
+> 
+> IF you like this repo, remember to follow. Your stars are also the motivation behind my updates.🤗🤗🤗
 
 | Family | Model      | State  |
 | ------ | ---------- | ------ |
 | Qwen   | Qwen3.5    | update |
 |        | Qwen2.5_VL | ✅      |
-| Llama  | llama-2    | ✅      |
-| GPT    | GPT-2      | ✅      |
+| Meta   | llama-2    | ✅      |
+| OPENAI | GPT-2      | ✅      |
+|        | CLIP       | ✅      |
+| GOOGLE | ViT        | ✅      |
 | GLM    | -          | update |
 
 
 
 ## Qwen3.5
 
-Update......
+### Vision Encoder
 
+<img src="modelimage/qwen352.jpg">
+
+### Text Encoder
+
+<img src="modelimage/qwen353.jpg">
 
 
 ## Qwen-VL
