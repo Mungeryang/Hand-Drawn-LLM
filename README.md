@@ -8,7 +8,7 @@
 
 | Family | Model      | State  |
 | ------ | ---------- | ------ |
-| Qwen   | Qwen3.5    | update |
+| Qwen   | Qwen3.5    | ✅       |
 |        | Qwen2.5_VL | ✅      |
 | Meta   | llama-2    | ✅      |
 | OPENAI | GPT-2      | ✅      |
@@ -19,6 +19,10 @@
 
 
 ## Qwen3.5
+
+### Qwen3.5 Model
+
+<img src="modelimage/qwen351.jpg">
 
 ### Vision Encoder
 
